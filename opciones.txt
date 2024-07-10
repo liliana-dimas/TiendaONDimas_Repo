@@ -8,3 +8,18 @@ OPCION 2 DE CONEXION
     $conex= mysqli_connect("localhost", "sergio","timoteo","project");    
 
 ?> 
+OPCION 3 DE CONEXION
+<?php
+    $conex= mysqli_connect("localhost", "sergio","timoteo","project");    
+
+?> 
+OPCION 4 DE CONEXION
+<?php
+    $conex= mysqli_connect("localhost", "sergio","timoteo","project");    
+
+?> 
+OPCION 5 DE CONEXION
+<?php
+    $conex= mysqli_connect("localhost", "sergio","timoteo","project");    
+
+?> 
