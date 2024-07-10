@@ -1,0 +1,10 @@
+OPCION 1 DE CONEXION
+<?php
+    $conex= mysqli_connect("localhost", "lili","12345","project");    
+
+?> 
+OPCION 2 DE CONEXION
+<?php
+    $conex= mysqli_connect("localhost", "sergio","timoteo","project");    
+
+?> 
