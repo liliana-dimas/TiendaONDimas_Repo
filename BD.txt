@@ -1,0 +1,3 @@
+$conex= mysqli_connect(
+    "localhost", "Liliana","12345","project"
+    );
